@@ -1,1 +1,1 @@
-# music-streaming-database-project
+# music-streaming app 
